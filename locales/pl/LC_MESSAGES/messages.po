@@ -1,0 +1,42 @@
+# Todoist Weekly Summary Translation
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Mateusz Kurowski, 2024
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: kurowskimateusz04@gmail.com\n"
+"POT-Creation-Date: 2024-08-21 00:05+0200\n"
+"PO-Revision-Date: 2024-08-21 00:05+0200\n"
+"Last-Translator: Mateusz Kurowski <kurowskimateusz04@gmail.com>\n"
+"Language-Team: Polish <kurowskimateusz04@gmail.com>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.py:44
+#, python-brace-format
+msgid "Completed Tasks from {start_date} to {end_date}"
+msgstr "Ukończone zadania od {start_date} do {end_date}"
+
+#: main.py:57
+#, python-brace-format
+msgid "Tasks have been saved to {output_file}"
+msgstr "Zadania zostały zapisane do pliku {output_file}"
+
+#: main.py:59
+msgid "No completed tasks in the specified period."
+msgstr "Brak ukończonych zadań w podanym okresie."
+
+#: main.py:61
+#, python-brace-format
+msgid "Error: {status_code} - {response_text}"
+msgstr "Błąd: {status_code} - {response_text}"
+
+msgid "Completed at"
+msgstr "Ukończono"
+
+msgid "Completed tasks"
+msgstr "Ukończone zadania"
